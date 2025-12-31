@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm 20 year old computer nerd, currently in college.
 
-<img stats” src="https://github-readme—stats.vercel.app/api?username=joeltutka5"/>
+<img alt="stats" src="https://github-readme—stats.vercel.app/api?username=joeltutka5"/>
 
 
 <!--
