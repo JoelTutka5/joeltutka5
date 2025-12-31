@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm 20 year old computer nerd, currently in college.
 <!--
 **JoelTutka5/joeltutka5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
