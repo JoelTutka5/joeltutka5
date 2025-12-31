@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm 20 year old computer nerd, currently in college.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelTutka5)](https://github.com/joeltutka5/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeltutka5)](https://github.com/joeltutka5/github-readme-stats)
 
 
 <!--
